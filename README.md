@@ -11,13 +11,10 @@
   <img src="https://img.shields.io/badge/Deployment-Streamlit-red?style=for-the-badge&logo=streamlit">
 </p>
 
----
-
 ## 🔗 Live Demo
 
 👉 https://nlp-textshield-classifier.streamlit.app/
 
----
 
 ## 📖 Project Overview
 
@@ -26,7 +23,6 @@ This project uses **Natural Language Processing (NLP)** and **Machine Learning**
 
 The model is trained on SMS data and deployed as an interactive web application using **Streamlit Cloud**.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -39,7 +35,6 @@ The model is trained on SMS data and deployed as an interactive web application 
 - Pickle (Model Serialization)  
 - Git & GitHub  
 
----
 
 ## ⚙️ Machine Learning Workflow
 
@@ -55,7 +50,6 @@ The model is trained on SMS data and deployed as an interactive web application 
 5. Model Evaluation  
 6. Deployment using Streamlit Cloud  
 
----
 
 ## 📊 Model Performance
 
@@ -63,7 +57,7 @@ The model is trained on SMS data and deployed as an interactive web application 
 - ✅ High precision in spam detection
 - ✅ Fast prediction time
 
----
+
 
 ## 🖥️ Application Features
 
@@ -73,10 +67,9 @@ The model is trained on SMS data and deployed as an interactive web application 
 ✔ Cloud deployed  
 ✔ Handles dynamic user input  
 
----
 
 ## 📂 Project Structure
-
+```
 smsspamclassifier/
 │
 ├── app.py
@@ -84,8 +77,7 @@ smsspamclassifier/
 ├── vectorizer.pkl
 ├── requirements.txt
 ├── README.md
-|--smsspamclassifier.ipynb
-
+```
 
 ## 🚀 Run Locally
 
@@ -100,7 +92,6 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
----
 
 # 📌 Important
 
@@ -115,11 +106,6 @@ Local URL: http://localhost:8501
 - Open that link in your browser.
 - Your app will run locally.
 
----
-
-# 🎯 So What Comes After?
-
-After the code block, you can add sections like:
 
 ```markdown
 ---
@@ -140,4 +126,4 @@ Congratulations! You have won a $1000 gift card. Click here to claim now!
 
 ## 👩‍💻 Author
 
-Janaki Sravanthi Paluchuri
+***Janaki Sravanthi Paluchuri***
