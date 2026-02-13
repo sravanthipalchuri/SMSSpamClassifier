@@ -107,11 +107,13 @@ Local URL: http://localhost:8501
 - Your app will run locally.
 
 
+```
 
 ## 📌 Example Spam Message
 
 Congratulations! You have won a $1000 gift card. Click here to claim now!
 
+---
 
 ## 🎯 Future Improvements
 
