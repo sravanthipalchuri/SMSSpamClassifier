@@ -107,14 +107,11 @@ Local URL: http://localhost:8501
 - Your app will run locally.
 
 
-```markdown
----
 
 ## 📌 Example Spam Message
 
 Congratulations! You have won a $1000 gift card. Click here to claim now!
 
----
 
 ## 🎯 Future Improvements
 
@@ -126,4 +123,4 @@ Congratulations! You have won a $1000 gift card. Click here to claim now!
 
 ## 👩‍💻 Author
 
-***Janaki Sravanthi Paluchuri***
+**Janaki Sravanthi Paluchuri**
